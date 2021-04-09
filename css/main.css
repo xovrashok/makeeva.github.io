@@ -395,8 +395,8 @@ margin-left: auto;
 }
 
 .jpg{
-  width: 400px;
-  height: 400px;
+  width: 1000px;
+  height: 1000px;
 }
 .menu{
   padding-right: 0;
@@ -407,8 +407,8 @@ margin-left: auto;
 
 .inform-text{
 text-align: center;
-margin-left: 5px;
-margin-right: 5px;
+margin-left: 10px;
+margin-right: 10px;
   font-size: 15px;
 }
 
