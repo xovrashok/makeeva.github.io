@@ -329,8 +329,9 @@ font-family: 'PT Serif', serif;  font-size: 46px;
   }
   .recommend{
     display: block;
-margin-left: auto;
-margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
   }
  .recommendss{
    margin-left: -50px;
