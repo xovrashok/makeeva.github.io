@@ -331,7 +331,7 @@ font-family: 'PT Serif', serif;  font-size: 46px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 300px;
+    width: 500px;
   }
  .recommendss{
    margin-left: -50px;
@@ -346,8 +346,8 @@ font-family: 'PT Serif', serif;  font-size: 46px;
 }
 
 .img{
-  width: 80px;
-  height: 80px;
+  width: 120px;
+  height: 120px;
 }
 
 .insta{
