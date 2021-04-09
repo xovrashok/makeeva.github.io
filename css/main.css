@@ -345,7 +345,7 @@ font-family: 'PT Serif', serif;  font-size: 46px;
   font-size: 55px;
 }
 .recommend-text{
-  font-size: 44px;
+  font-size: 24px;
 }
 
 .img{
@@ -365,6 +365,10 @@ font-family: 'PT Serif', serif;  font-size: 46px;
   width: 30px;
   height: 30px;
 }
+.follow{
+display: block;
+}
+
 .followus{
   margin-left: 70px;
 }
