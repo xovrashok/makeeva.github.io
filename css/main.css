@@ -378,13 +378,14 @@ margin-right: auto;
 
 .followus{
   text-align: center;
+width: 100%;
 }
 .fu{
   margin-top: 30px;
 font-size: 90px;
 }
 .insta{
-font-size: 90px;
+font-size: 50px;
 }
 .welcome {
 font-size: 15px;
@@ -395,8 +396,8 @@ margin-left: auto;
 }
 
 .jpg{
-  width: 1000px;
-  height: 1000px;
+  width: 700px;
+  height: 700px;
 }
 .menu{
   padding-right: 0;
