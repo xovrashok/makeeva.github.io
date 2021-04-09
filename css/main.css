@@ -327,6 +327,9 @@ font-family: 'PT Serif', serif;  font-size: 46px;
   .btn{
     margin: 0 auto;
   }
+  .photo{
+    height: 1200px;
+  }
   .recommend{
     display: block;
     margin-left: auto;
