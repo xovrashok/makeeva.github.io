@@ -255,7 +255,7 @@ font-family: 'PT Serif', serif;  font-size: 46px;
   }
   #menu__toggle:checked ~ .menu__box {
     visibility: visible;
-    right: 0;
+    left: 0;
   }
 
   .menu__btn {
@@ -263,7 +263,7 @@ font-family: 'PT Serif', serif;  font-size: 46px;
     align-items: center;
     position: fixed;
     top: 20px;
-    right: 20px;
+    left: 20px;
     width: 56px;
     height: 56px;
     cursor: pointer;
